@@ -1,0 +1,1630 @@
+.Frame-Weather-App-Day {
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FFFFFF;
+}
+
+.PortadaEdificiosImg {
+
+    position: absolute;
+    width: 375px;
+    height: 300px;
+    left: 0px;
+    top: 5px;
+}
+
+.RectanguloClima {
+
+position: absolute;
+width: 375px;
+height: 531px;
+left: 0px;
+top: 279px;
+
+border-radius: 30px 30px 0px 0px;
+background: #FFFFFF;
+box-shadow: 0px -16px 40px rgba(0, 0, 0, 0.2);
+}
+
+.FilaDatosClima4 {
+
+position: absolute;
+width: 438px;
+height: 101px;
+left: 18px;
+top: 670px;
+}
+
+
+.RectanguloDia4 {
+
+position: absolute;
+width: 95px;
+height: 101px;
+left: 361px;
+top: 670px;
+
+background: #FFFFFF;
+box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.1);
+border-radius: 16px;
+}
+
+
+.NumeroTemperaturaVariacionAltaDia4Edit {
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 379px;
+top: 745px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #999999;
+}
+
+
+.°CTemperaturaVariacionAltaDia4Text {
+
+position: absolute;
+width: 9px;
+height: 10px;
+left: 389px;
+top: 745px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #999999;
+}
+
+
+.VectorTemperaturaVariacionAltaDia4 {
+
+    position: absolute;
+    width: 5px;
+    height: 7px;
+    left: 400px;
+    top: 746px;
+}
+
+.°CTemperaturaVariacionBajaDia4Text {
+
+position: absolute;
+width: 9px;
+height: 10px;
+left: 421px;
+top: 745px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #999999;
+}
+
+
+.NumeroTemperaturaVariacionBajaDia4Edit {
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 411px;
+top: 745px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #999999;
+}
+
+
+.VectorTemperaturaVariacionBajaDia4 {
+
+    position: absolute;
+    width: 5px;
+    height: 7px;
+    left: 432px;
+    top: 746px;
+}
+
+.FrameIconDia4 {
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 397px;
+top: 686px;
+}
+
+
+.UnionIcon {
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 17.39%;
+bottom: 17.39%;
+
+background: #AAAAAA;
+}
+
+.NombreDia4Edit {
+
+position: absolute;
+width: 51px;
+height: 19px;
+left: 383px;
+top: 722px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: -0.05em;
+
+color: #444444;
+}
+
+.RectanguloDia3 {
+
+position: absolute;
+width: 95px;
+height: 101px;
+left: 248px;
+top: 670px;
+
+background: #FFFFFF;
+box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.1);
+border-radius: 16px;
+}
+
+.°CTemperaturaVariacionAltaDia3Text {
+
+position: absolute;
+width: 9px;
+height: 10px;
+left: 276px;
+top: 745px;
+
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #999999;
+}
+
+
+.NumeroTemperaturaVariacionAltaDia3TextEdit {
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 262px;
+top: 745px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #999999;
+}
+
+.VectorTemperaturaVariacionAltaDia3 {
+
+    position: absolute;
+    width: 5px;
+    height: 7px;
+    left: 287px;
+    top: 746px;
+    
+}
+
+.°CTemperaturaVariacionBajaDia3Text {
+
+position: absolute;
+width: 9px;
+height: 10px;
+left: 309px;
+top: 745px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #999999;
+}
+
+
+.NumeroTemperaturaVariacionBajaDia3TextEdit {
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 295px;
+top: 745px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #999999;
+}
+
+
+.VectorTemperaturaVariacionBajaDia3 {
+
+    position: absolute;
+    width: 5px;
+    height: 7px;
+    left: 319px;
+    top: 746px;
+    
+}
+
+.FrameIconDia3 {
+
+position: absolute;
+width: 53px;
+height: 53px;
+left: 270px;
+top: 686px;
+}
+
+
+.BrumosoIcon {
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 17.39%;
+bottom: 17.39%;
+
+background: #AAAAAA;
+}
+
+.NombreDia3Edit {
+
+    position: absolute;
+    width: 116px;
+    height: 19px;
+    left: 248px;
+    top: 722px;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 19px;
+    letter-spacing: -0.05em;
+    color: #444444;
+}
+
+
+.RectanguloDia2 {
+
+position: absolute;
+width: 95px;
+height: 101px;
+left: 133px;
+top: 670px;
+
+background: #FFFFFF;
+box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.1);
+border-radius: 16px;
+}
+
+.GrupoTemperaturaVariacionDia2Edit {
+
+position: absolute;
+width: 58px;
+height: 10px;
+left: 151px;
+top: 745px;
+}
+
+
+.°CTemperaturaVariacionAltaDia2Text {
+
+position: absolute;
+width: 9px;
+height: 10px;
+left: 162px;
+top: 745px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #999999;
+}
+
+
+.NumeroTemperaturaVariacionAltaDia2TextEdit {
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 147px;
+top: 745px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #999999;
+}
+
+
+.VectorTemperaturaVariacionAltaDia2 {
+
+    position: absolute;
+    width: 5px;
+    height: 7px;
+    left: 172px;
+    top: 746px;
+    
+}
+
+.°CTemperaturaVariacionBajaDia2Text {
+
+position: absolute;
+width: 9px;
+height: 10px;
+left: 193px;
+top: 745px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #999999;
+}
+
+
+.NumeroTemperaturaVariacionBajaDia2TextEdit {
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 179px;
+top: 745px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #999999;
+}
+
+
+.VectorTemperaturaVariacionBajaDia2 {
+
+    position: absolute;
+    width: 5px;
+    height: 7px;
+    left: 204px;
+    top: 746px;
+}
+
+.FrameIconDia2Edit {
+
+position: absolute;
+width: 53px;
+height: 53px;
+left: 155px;
+top: 686px;
+}
+
+
+.NubladoIcon {
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 13.04%;
+bottom: 13.04%;
+
+background: #AAAAAA;
+}
+
+.NombreDia2Edit {
+
+    position: absolute;
+    width: 92px;
+    height: 19px;
+    left: 136px;
+    top: 722px;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: -0.05em;
+    color: #444444;
+}
+
+
+.RectanguloDia1 {
+
+position: absolute;
+width: 95px;
+height: 101px;
+left: 18px;
+top: 670px;
+
+background: #FFFFFF;
+box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.1);
+border-radius: 16px;
+}
+
+
+.°CTemperaturaVariacionAltaDia1Text {
+
+position: absolute;
+width: 9px;
+height: 10px;
+left: 47px;
+top: 745px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #999999;
+}
+
+
+.NumeroTemperaturaVariacionAltaDia1TextEdit {
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 33px;
+top: 745px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #999999;
+}
+
+
+.VectorTemperaturaVariacionAltaDia1 {
+
+    position: absolute;
+    width: 5px;
+    height: 7px;
+    left: 57px;
+    top: 746px;
+    
+}
+
+.°CTemperaturaVariacionBajaDia1Text {
+
+position: absolute;
+width: 9px;
+height: 10px;
+left: 79px;
+top: 745px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #999999;
+}
+
+
+.NumeroTemperaturaVariacionBajaDia1TextEdit {
+
+position: absolute;
+width: 10px;
+height: 10px;
+left: 65px;
+top: 745px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 10px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #999999;
+}
+
+
+.VectorTemperaturaVariacionBajaDia1 {
+
+    position: absolute;
+    width: 5px;
+    height: 7px;
+    left: 89px;
+    top: 746px;
+}
+
+.FrameIconDia1Edit {
+
+    position: absolute;
+    width: 53px;
+    height: 53px;
+    left: 38px;
+    top: 686px;
+}
+
+
+.SoleadoIcon {
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #AAAAAA;
+}
+
+.NombreDia1Edit {
+
+position: absolute;
+width: 46px;
+height: 19px;
+left: 42px;
+top: 722px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: -0.05em;
+
+color: #444444;
+}
+
+
+.FilaDatosClima3 {
+
+position: absolute;
+width: 287px;
+height: 69px;
+left: 41px;
+top: 577px;
+}
+
+
+.TiempoDeDiaText {
+
+position: absolute;
+width: 34px;
+height: 10px;
+left: 286px;
+top: 636px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 10px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #999999;
+}
+
+
+.NumeroTiempoDeDiaTextEdit {
+
+position: absolute;
+width: 41px;
+height: 19px;
+left: 287px;
+top: 613px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: -0.05em;
+
+color: #444444;
+}
+
+
+.FrameTiempoDeDiaIcon {
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 296px;
+top: 577px;
+}
+
+
+.TiempoDeDiaIcon {
+
+position: absolute;
+left: 15.67%;
+right: 17.25%;
+top: 3%;
+bottom: 3.25%;
+
+background: #AAAAAA;
+}
+
+
+.PuestaDeSolText {
+
+position: absolute;
+width: 29px;
+height: 10px;
+left: 168px;
+top: 636px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 10px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #999999;
+}
+
+
+.NumeroTiempoPuestaDeSolTextEdit {
+
+position: absolute;
+width: 28px;
+height: 19px;
+left: 162px;
+top: 613px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: -0.05em;
+
+color: #444444;
+}
+
+
+.PMText {
+
+position: absolute;
+width: 21px;
+height: 19px;
+left: 200px;
+top: 613px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: -0.05em;
+
+color: #444444;
+}
+
+
+.FramePuestaDeSolIcon {
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 175px;
+top: 577px;
+}
+
+
+.PuestaDeSolIcon {
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 8.33%;
+bottom: 20.83%;
+
+background: #AAAAAA;
+}
+
+.VectorPuestaDeSolArriba {
+
+position: absolute;
+left: 39.58%;
+right: 39.58%;
+top: 58.34%;
+bottom: 8.33%;
+
+background: #AAAAAA;
+}
+
+
+.LevantarseText {
+
+position: absolute;
+width: 32px;
+height: 10px;
+left: 47px;
+top: 636px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 10px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #999999;
+}
+
+
+.FrameLevantarseIcon {
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 55px;
+top: 577px;
+}
+
+
+.GrupoLevantarseIcon1 {
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 4.17%;
+bottom: 4.17%;
+}
+
+.LevantarseIcon {
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 4.17%;
+bottom: 25%;
+
+background: #AAAAAA;
+}
+
+.VectorLevantarseAbajo {
+
+position: absolute;
+left: 39.58%;
+right: 39.58%;
+top: 62.5%;
+bottom: 4.17%;
+
+background: #AAAAAA;
+}
+
+.NumeroTiempoLevantarseTextEdit {
+
+position: absolute;
+width: 29px;
+height: 19px;
+left: 41px;
+top: 613px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: -0.05em;
+
+color: #444444;
+}
+
+
+.AMText {
+
+position: absolute;
+width: 21px;
+height: 19px;
+left: 72px;
+top: 613px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: -0.05em;
+
+color: #444444;
+}
+
+
+.FilaDatosClima2 {
+
+position: absolute;
+width: 284px;
+height: 69px;
+left: 49px;
+top: 468px;
+}
+
+
+.VientoText {
+
+position: absolute;
+width: 21px;
+height: 10px;
+left: 297px;
+top: 527px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 10px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #999999;
+}
+
+
+.NumeroVientoTextEdit {
+
+position: absolute;
+width: 16px;
+height: 19px;
+left: 281px;
+top: 504px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: -0.05em;
+
+color: #444444;
+}
+
+
+.km-hVientoText {
+
+position: absolute;
+width: 37px;
+height: 19px;
+left: 308px;
+top: 504px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: -0.05em;
+
+color: #444444;
+}
+
+
+.FrameVientoIcon {
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 296px;
+top: 468px;
+}
+
+
+.VectorViento2 {
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 13.04%;
+bottom: 47.83%;
+
+background: #AAAAAA;
+}
+
+.GrupoVientoIcon2 {
+
+position: absolute;
+left: 0%;
+right: 45.65%;
+top: 8.7%;
+bottom: 60.87%;
+}
+
+
+.VectorViento1 {
+
+position: absolute;
+left: 0%;
+right: 45.65%;
+top: 8.7%;
+bottom: 60.87%;
+
+background: #AAAAAA;
+}
+
+
+.VectorViento {
+
+position: absolute;
+left: 0%;
+right: 8.7%;
+top: 60.87%;
+bottom: 8.7%;
+
+background: #AAAAAA;
+}
+
+
+.PresionText {
+
+position: absolute;
+width: 37px;
+height: 10px;
+left: 164px;
+top: 527px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 10px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #999999;
+}
+
+
+.NumeroPresionTextEdit {
+
+position: absolute;
+width: 32px;
+height: 19px;
+left: 154px;
+top: 504px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: -0.05em;
+
+color: #444444;
+}
+
+
+.mBarText {
+
+position: absolute;
+width: 35px;
+height: 19px;
+left: 185px;
+top: 504px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: -0.05em;
+
+color: #444444;
+}
+
+
+
+.FramePresionIcon {
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 175px;
+top: 468px;
+}
+
+.VectorPresion11 {
+
+position: absolute;
+left: 47.92%;
+right: 47.92%;
+top: 16.67%;
+bottom: 75%;
+
+background: #AAAAAA;
+}
+
+.VectorPresion10 {
+
+position: absolute;
+left: 28.12%;
+right: 65.62%;
+top: 21.97%;
+bottom: 70.26%;
+
+background: #AAAAAA;
+}
+
+.VectorPresion9 {
+
+position: absolute;
+left: 13.64%;
+right: 78.59%;
+top: 36.46%;
+bottom: 57.29%;
+
+background: #AAAAAA;
+}
+
+.VectorPresion8 {
+
+position: absolute;
+left: 78.59%;
+right: 13.64%;
+top: 73.96%;
+bottom: 19.79%;
+
+background: #AAAAAA;
+}
+
+.VectorPresion7 {
+
+position: absolute;
+left: 8.33%;
+right: 83.33%;
+top: 56.25%;
+bottom: 39.58%;
+
+background: #AAAAAA;
+}
+
+.VectorPresion6 {
+
+position: absolute;
+left: 83.33%;
+right: 8.33%;
+top: 56.25%;
+bottom: 39.58%;
+
+background: #AAAAAA;
+}
+
+.VectorPresion5 {
+
+position: absolute;
+left: 13.64%;
+right: 78.59%;
+top: 73.96%;
+bottom: 19.79%;
+
+background: #AAAAAA;
+}
+
+.VectorPresion4 {
+
+position: absolute;
+left: 78.59%;
+right: 13.64%;
+top: 36.46%;
+bottom: 57.29%;
+
+background: #AAAAAA;
+}
+
+.VectorPresion3 {
+
+position: absolute;
+left: 65.62%;
+right: 28.12%;
+top: 21.97%;
+bottom: 70.26%;
+
+background: #AAAAAA;
+}
+
+.VectorPresion2 {
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 8.33%;
+bottom: 16.67%;
+
+background: #AAAAAA;
+}
+
+.VectorPresion1 {
+
+position: absolute;
+left: 41.67%;
+right: 41.67%;
+top: 33.33%;
+bottom: 8.33%;
+
+background: #AAAAAA;
+}
+
+
+.NumeroHumedadTextEdit {
+
+position: absolute;
+width: 17px;
+height: 19px;
+left: 52px;
+top: 504px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: -0.05em;
+
+color: #444444;
+}
+
+
+.PorcentajeHumedadText {
+
+position: absolute;
+width: 14px;
+height: 19px;
+left: 68px;
+top: 504px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: -0.05em;
+
+color: #444444;
+}
+
+
+.HumedadText {
+
+    position: absolute;
+    width: 37px;
+    height: 10px;
+    left: 44px;
+    top: 527px;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11;
+    line-height: 10px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #999999;
+}
+
+
+.FrameHumedadIcon {
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 55px;
+top: 468px;
+}
+
+
+.VectorHumedadIcon5 {
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #AAAAAA;
+}
+
+.VectorHumedadIcon4 {
+
+position: absolute;
+left: 0%;
+right: 83.87%;
+top: 66.67%;
+bottom: 25%;
+
+background: #AAAAAA;
+}
+
+.VectorHumedadIcon3 {
+
+position: absolute;
+left: 23.94%;
+right: 35.42%;
+top: 66.67%;
+bottom: 25%;
+
+background: #AAAAAA;
+}
+
+.VectorHumedadIcon2 {
+
+position: absolute;
+left: 0%;
+right: 71.89%;
+top: 54.17%;
+bottom: 37.5%;
+
+background: #AAAAAA;
+}
+
+.VectorHumedadIcon1 {
+
+position: absolute;
+left: 35.93%;
+right: 23.97%;
+top: 54.17%;
+bottom: 37.5%;
+
+background: #AAAAAA;
+}
+
+.FilaDatosClima1 {
+
+position: absolute;
+width: 282px;
+height: 77px;
+left: 45px;
+top: 351px;
+}
+
+
+.VectorTemperaturaVariacionBaja {
+
+    position: absolute;
+    width: 5px;
+    height: 8px;
+    left: 339px;
+    top: 408px;
+}
+
+.NumeroTemperaturaVariacionBajaTextEdit {
+
+position: absolute;
+width: 16px;
+height: 19px;
+left: 288px;
+top: 399px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+
+color: #666666;
+}
+
+
+.°CTextTemperaturaVariacionBaja {
+
+position: absolute;
+width: 16px;
+height: 19px;
+left: 320px;
+top: 399px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+
+color: #666666;
+}
+
+
+.°CTextTemperaturaVariacionAlta {
+
+position: absolute;
+width: 16px;
+height: 19px;
+left: 320px;
+top: 368px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+
+color: #666666;
+}
+
+
+.NumeroTemperaturaVariacionAltaTextEdit {
+
+position: absolute;
+width: 17px;
+height: 19px;
+left: 288px;
+top: 368px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+
+color: #666666;
+}
+
+
+.VectorTemperaturaVariacionAlta {
+
+    position: absolute;
+    width: 5px;
+    height: 8px;
+    left: 331px;
+    top: 363px;
+}
+
+.GrupoTemperatura {
+
+position: absolute;
+width: 87px;
+height: 77px;
+left: 156px;
+top: 351px;
+}
+
+
+.NumeroGradoTextEdit {
+
+    position: absolute;
+    width: 93px;
+    height: 69px;
+    left: 136px;
+    top: 351px;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 64px;
+    line-height: 77px;
+    letter-spacing: -0.05em;
+    color: #000000;
+}
+
+
+.°CText {
+
+position: absolute;
+width: 24px;
+height: 29px;
+left: 225px;
+top: 362px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #666666;
+}
+
+
+.SoleadoTextEdit {
+
+position: absolute;
+width: 45px;
+height: 22px;
+left: 45px;
+top: 400px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.05em;
+
+color: #000000;
+}
+
+
+.FrameSoleadoIcon {
+
+    position: absolute;
+    width: 63px;
+    height: 64px;
+    left: 37px;
+    top: 348px;
+}
+
+
+.SoleadoIcon {
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 13.04%;
+    bottom: 13.04%;
+
+    background: #AAAAAA;
+}
+
+
+.RectanguloCiudad {
+
+    position: absolute;
+    width: 243px;
+    height: 48px;
+    left: 132px;
+    top: 279px;
+
+    border-radius: 1px 30px 0px 30px;
+    background: rgba(13, 159, 234, 0.08);
+}
+
+
+
+.LocalizacionTextEdit {
+
+    position: absolute;
+    width: 180.99px;
+    height: 19px;
+    left: 137px;
+    top: 294px;
+    font-family: Barlow;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #0DA0EA;
+}
+
+
+.FrameLocalizacionIcon {
+
+position: absolute;
+width: 14.42px;
+height: 12px;
+left: 357.48px;
+top: 297px;
+}
+
+
+.LocalizacionIcon {
+
+position: absolute;
+left: 15.56%;
+right: 15.56%;
+top: 0%;
+bottom: 0%;
+
+background: #0D9FEA;
+}
+
+.FechaTextEdit {
+
+position: absolute;
+width: 119px;
+height: 34px;
+left: 11px;
+top: 294px;
+
+font-family: Barlow;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #999999;
+}
